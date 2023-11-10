@@ -1,0 +1,1 @@
+DELETE FROM plants WHERE id = {{editlisiting.data.id}}

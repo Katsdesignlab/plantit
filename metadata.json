@@ -1,0 +1,19 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "71c88b1a-64f3-11ee-814b-43a2ce0aee25",
+  "appTemplate": {
+    "mobileAppSettings": {
+      "object": {
+        "mobileOfflineModeEnabled": false
+      }
+    },
+    "appThemeId": 36066,
+    "queryStatusVisibility": true,
+    "rootScreen": "tabscreen",
+    "isMobileApp": true,
+    "version": "3.21.0",
+    "multiScreenMobileApp": true,
+    "experimentalDataTabEnabled": true
+  }
+}
